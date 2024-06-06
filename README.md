@@ -1,4 +1,10 @@
-# How to Run the Project
+# What is this shit? 
+This repository contains a project that utilizes Pusher with Expo app for real-time communication.
+It includes instructions on how to set up and run the project.
+For more details, please refer to the instructions below.
+Feel free to [reach out](https://www.linkedin.com/in/eylonshm) for assistance or further information.
+
+## How to Run the Project
 
 1. Run `npm install` to install dependencies.
 2. Create a `.env` file at the root level of the project and add the following variables:
